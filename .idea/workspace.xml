@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98a94526-e6cb-466c-80a8-00e6c3b45ddd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ExemploVendasMod25/.idea/ExemploVendasMod25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploVendasMod25/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploVendasMod25/src/test/java/br/com/rpires/ClienteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploVendasMod25/src/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemplosJDBCAlunos/ExemplosJDBCAlunos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/ProjetoGenericsCarros/ProjetoGenericsCarros.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/CadastroCRUD/CadastroCRUD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/PessoaApp/PessoaApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/FabricaDeCarros.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TarefaAnotacao/TarefaAnotacao/TarefaAnotacao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TarefaReflexao/TarefaReflexao/TarefaReflexao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TarefaStreams/TarefaStreams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TarefaStreams/TarefaStreams/TarefaStreams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TarefaTestes1/TarefaTestes1/TarefaTestes1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod29/.idea/mod29.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod29/ExemplosJDBCAlunos/src/java/ExemplosJDBCAlunos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod29/ExemplosJDBCAlunos/src/java/main/br/com/rpires/dao/IProdutoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod29/ExemplosJDBCAlunos/src/java/main/br/com/rpires/dao/ProdutoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod29/ExemplosJDBCAlunos/src/java/main/br/com/rpires/dao/jdbc/SchemaLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod29/ExemplosJDBCAlunos/src/java/main/br/com/rpires/domain/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod29/ExemplosJDBCAlunos/src/test/java/br/com/rpires/ProdutoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod29/ExemplosJDBCAlunos/src/test/test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod29/out/test/test2/test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod32/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod32/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod32/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod32/.idea/mod32.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod32/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod32/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod32/ExemplosMod32/src/main/java/br/com/rpires/dao/IProdutoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod32/ExemplosMod32/src/main/java/br/com/rpires/dao/ProdutoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod32/ExemplosMod32/src/main/java/br/com/rpires/domain/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod32/ExemplosMod32/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mod32/ExemplosMod32/src/test/java/br/com/rpires/ProdutoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tarefa-calculo-media/.idea/tarefa-calculo-media.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tarefa-calculo-media/tarefa-casting/tarefa_casting/tarefa_casting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColeçõesParteDois/ColecoesParteDois/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ColeçõesParteDois/ColecoesParteDois/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosMod23e24/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosMod23e24/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/ProjetoGenericsCarros/src/Carros/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics/ProjetoGenericsCarros/src/Carros/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/ProjetoGenericsCarros/src/Carros/Garagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics/ProjetoGenericsCarros/src/Carros/Garagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/ProjetoGenericsCarros/src/Carros/Honda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics/ProjetoGenericsCarros/src/Carros/Honda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/ProjetoGenericsCarros/src/Carros/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics/ProjetoGenericsCarros/src/Carros/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/ProjetoGenericsCarros/src/Carros/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics/ProjetoGenericsCarros/src/Carros/Toyota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/PessoaApp/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces/PessoaApp/src/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/PessoaApp/src/PessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces/PessoaApp/src/PessoaFisica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/PessoaApp/src/PessoaJuridica.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces/PessoaApp/src/PessoaJuridica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/CarroSUV.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/CarroSUV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/CarroSedan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/CarroSedan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/FabricaCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/FabricaCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/FabricaCarroEsportivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/FabricaCarroEsportivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/FabricaCarroLuxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/FabricaCarroLuxo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/SUVEsportivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/SUVEsportivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/SUVLuxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/SUVLuxo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/SedanEsportivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/SedanEsportivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/SedanLuxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PadroesDeProjeto/FabricaDeCarros/src/factory/SedanLuxo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TarefaAnotacao/TarefaAnotacao/src/br/com/tafefa/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TarefaAnotacao/TarefaAnotacao/src/br/com/tafefa/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TarefaAnotacao/TarefaAnotacao/src/br/com/tafefa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TarefaAnotacao/TarefaAnotacao/src/br/com/tafefa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TarefaAnotacao/TarefaAnotacao/src/br/com/tafefa/Tabela.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TarefaAnotacao/TarefaAnotacao/src/br/com/tafefa/Tabela.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TarefaReflexao/TarefaReflexao/src/br/com/reflexao/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TarefaReflexao/TarefaReflexao/src/br/com/reflexao/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TarefaReflexao/TarefaReflexao/src/br/com/reflexao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TarefaReflexao/TarefaReflexao/src/br/com/reflexao/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TarefaReflexao/TarefaReflexao/src/br/com/reflexao/Tabela.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TarefaReflexao/TarefaReflexao/src/br/com/reflexao/Tabela.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TarefaStreams/TarefaStreams/src/TarefaStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TarefaStreams/TarefaStreams/src/TarefaStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TarefaTestes1/TarefaTestes1/src/TarefaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TarefaTestes1/TarefaTestes1/src/TarefaTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes, metodos , modificadores/ExemplosMod7/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classes, metodos , modificadores/ExemplosMod7/src/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes, metodos , modificadores/ExemplosMod7/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classes, metodos , modificadores/ExemplosMod7/src/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes, metodos , modificadores/ExemplosMod7/src/ItemVenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classes, metodos , modificadores/ExemplosMod7/src/ItemVenda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes, metodos , modificadores/ExemplosMod7/src/PrimeiraClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classes, metodos , modificadores/ExemplosMod7/src/PrimeiraClasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes, metodos , modificadores/ExemplosMod7/src/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classes, metodos , modificadores/ExemplosMod7/src/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes, metodos , modificadores/ExemplosMod7/src/Venda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classes, metodos , modificadores/ExemplosMod7/src/Venda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa-calculo-media/tarefa-calculo-media/src/CalculadoraMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tarefa-calculo-media/tarefa-calculo-media/src/CalculadoraMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa-calculo-media/tarefa-calculo-media/tarefa-calculo-media.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa-calculo-media/tarefa-casting/tarefaIfNotas/src/CalculoMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tarefa-calculo-media/tarefa-casting/tarefaIfNotas/src/CalculoMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa-calculo-media/tarefa-casting/tarefa_casting/src/ConversaoCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tarefa-calculo-media/tarefa-casting/tarefa_casting/src/ConversaoCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa_classes/tarefa_classes/src/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tarefa_classes/tarefa_classes/src/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Iasmyn Martins Guimarães.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio-css/imagens/GOOGLEPAY.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio-css/imagens/basquete.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio-css/imagens/divertida mente.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio-css/imagens/dolares.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio-css/imagens/euro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio-css/imagens/futebol-americano.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio-css/imagens/futebol.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio-css/imagens/iphone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio-css/imagens/logo youtbe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio-css/imagens/minions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio-css/imagens/petroleo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio-css/imagens/senhor dos aneis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio-css/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio-css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/1-getting-started/todo.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/actions.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/aliasing.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/assertions.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/connectors.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/cookies.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/cypress_api.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/files.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/location.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/misc.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/navigation.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/network_requests.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/querying.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/spies_stubs_clocks.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/storage.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/traversal.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/utilities.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/viewport.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/waiting.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/2-advanced-examples/window.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/e2e/agenda-de-contatos/contatos.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/cypress/support/e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pratiques e2e com cypress/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto 1/images/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto 1/images/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto 1/images/loja.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto 1/images/nintendo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto 1/images/playstation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto 1/images/xbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto 1/images/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto 1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto 1/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto Vue/todo-vue" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3AAzf7ySQMxUctS5vxLGmPhRXwh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.br.com.ebac.jpaavancado.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/iasmy/Desktop/CursoEbac/BackEnd/mod33/Tarefa JPA Avancado/src/main/br/com/ebac/jpaavancado",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.externalResources"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\iasmy\Desktop\CursoEbac\BackEnd\mod33\Tarefa JPA Avancado\src\main\java" />
+      <recent name="C:\Users\iasmy\Desktop\CursoEbac\BackEnd\mod33\Tarefa JPA Avancado\src\main" />
+      <recent name="C:\Users\iasmy\Desktop\CursoEbac\BackEnd\mod33\Tarefa JPA Avancado\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.ebac.jpaavancado.Main" />
+      <module name="mod33" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.ebac.jpaavancado.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98a94526-e6cb-466c-80a8-00e6c3b45ddd" name="Changes" comment="" />
+      <created>1772050263178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772050263178</updated>
+    </task>
+    <servers />
+  </component>
+</project>
